@@ -24,10 +24,15 @@ Various apps under strict test, lending, derivatives, nft, farming, payments , p
 
 # LWT Token
 
-代币名称： LotusWalletCommunity
-代币简称： LWT
-发行量： 100亿
-精确度： 18 （小数点后18位）
-发行主链： BSC
-合约地址： 0x93d87a1dcb504ad5be54b9194496713eb99b9953 （ 区块链浏览器查看： https://bscscan.com/token/0x93d87a1dcb504ad5be54b9194496713eb99b9953 ）
+NAME / 代币名称： LotusWalletCommunity
+
+SYMBOL / 代币简称： LWT
+
+AMOUNT / 发行量： 100亿
+
+DECIMAL / 精确度： 18 （小数点后18位）
+
+CHAIN / 发行主链： BSC
+
+CONTRACT ADDRESS / 合约地址： 0x93d87a1dcb504ad5be54b9194496713eb99b9953 （ 区块链浏览器查看： https://bscscan.com/token/0x93d87a1dcb504ad5be54b9194496713eb99b9953 ）
 
