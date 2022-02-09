@@ -1,4 +1,4 @@
-# LotusWallet Documdent
+# LotusWallet Document
 
 # Lotus-Wallet
 资产管理 | 安全管理 | 资产增值
