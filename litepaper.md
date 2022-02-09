@@ -126,6 +126,7 @@ facebook：https://www.facebook.com/LotusWallet727
 支付权益：LWT 可用于多条公链资源费购买、钱包 VIP 功能解锁、TP 广告费用支付等场景，LWT可以转换为BNB或ETH，作为在BSC和ETH网络上使用的费用
 
 3.Financing and Listing
+
 NOT IN PROGRESS
 
 
