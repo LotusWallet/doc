@@ -68,5 +68,12 @@ A: The event is still in progress. The first 10,000 users who have opened/import
 
 
 
+
+## Q: How to get airdrop tokens? Why I have no airdrop tokens? How do you get my wallet address? Is it possible for Information leakage?
+
+A: Please make sure that you have installed LotusWallet APP on your mobile phone and created or imported at least one BSC account which will receive the airdrop tokens. We get the wallet address from requesting query for history transaction. We need to obtain and only obtain the address while your mnemonic words and private keys are only encrypted or decrypted on client side.
+
+
+
 We would encourage everyone to give it a try. Once you have tried LotusWallet, A whole new world will unfold.
 
